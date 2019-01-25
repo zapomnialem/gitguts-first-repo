@@ -1,0 +1,2 @@
+To jest treść stworzona na branchu refactoring.
+Tak to bywa.
