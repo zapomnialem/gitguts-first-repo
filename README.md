@@ -1,3 +1,3 @@
 #Git guts
 
-stworzony na stronie github
+Super. Zaraz skoncze.
